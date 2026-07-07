@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.API MAKING/
+.env
+.env
+**/.env
