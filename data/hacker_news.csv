@@ -1,0 +1,11 @@
+title,url,num_comments,points,author
+Python 3.14 Released,https://python.org,120,350,guido
+New AI Model Beats Benchmarks,https://openai.com,250,620,sam
+Best VS Code Extensions,https://code.visualstudio.com,45,180,david
+Learn Pandas in 30 Days,https://pandas.pydata.org,78,220,asabeneh
+NumPy Performance Tips,https://numpy.org,33,140,john
+Why Linux is Popular,https://kernel.org,95,310,linus
+Building REST APIs in Python,https://fastapi.tiangolo.com,60,200,sebastian
+Top Programming Languages 2026,https://example.com,150,400,alice
+Introduction to Machine Learning,https://scikit-learn.org,110,290,bob
+Data Science Roadmap,https://example.org,89,260,charlie

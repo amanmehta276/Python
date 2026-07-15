@@ -48,6 +48,6 @@
 # else:
 #     print(False)
 
-a=int(input("Enter your year : "))
-b=a*365*24*60*60
-print(f"You have lived {b} seconds")
+# a=int(input("Enter your year : "))
+# b=a*365*24*60*60
+# print(f"You have lived {b} seconds")
