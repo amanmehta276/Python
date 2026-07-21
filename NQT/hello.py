@@ -1,10 +1,5 @@
-
-def sorted1(numa):
-
-    for i in nums:
-        return 
-    return abs(i)
-
-
-nums = [-4,-1,0,3,10]
-print(sorted1(nums))
+# bubble 
+arr=[]
+n=len(arr)
+for i in range(n):
+    for j in range(n-i-1):
