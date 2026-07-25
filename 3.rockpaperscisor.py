@@ -30,6 +30,12 @@ while True:
     else:
         print("You lose!")
         computer_wins += 1
+    again=input("Enter 1 if wanna play else any diigt: ")
+
+    if again!="1":
+        print("Thanks for playing")
+        break
+    
 print("You won", user_wins, "times.")
 print("Computer won", computer_wins, "times.")
 print("Good Bye!")
