@@ -20,3 +20,5 @@ plt.plot(x,y3,color="green",**line_style)
 # plt.plot(y)
 # plt.plot(x)
 plt.show()  #show the plot graph
+# okay this 
+a=input()
