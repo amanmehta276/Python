@@ -1,3 +1,3 @@
 import math
 
-print(type(dir(math)))
+print(dir(math))
