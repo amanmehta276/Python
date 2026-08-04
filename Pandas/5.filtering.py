@@ -4,5 +4,5 @@ df=pd.read_csv(r"c:\Users\Sneha\OneDrive\Documents\AMAN_DEVELOPER\Python.project
 
 # filtering=keeping the row to match a conditioon
 
-tall_pokemon=df[df["Attack"]>=2]
-print(tall_pokemon)
+pokemon=df[df["Attack"]>=2]
+print(pokemon)

@@ -7,4 +7,4 @@ df=pd.read_csv(r"c:\Users\Sneha\OneDrive\Documents\AMAN_DEVELOPER\Python.project
 
 # print(df) truncated
 
-print(df.to_string())
+# print(df.to_string()) full data

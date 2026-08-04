@@ -9,7 +9,7 @@ df=pd.read_csv(r"c:\Users\Sneha\OneDrive\Documents\AMAN_DEVELOPER\Python.project
 # print(df.loc[0:2])
 # print(df.loc["Pikachu"])
 
-pokemon=input("Enter a Pokemon name :")
+pokemon=input("Enter a Pokemon name : ")
 try:
     print(df.loc[pokemon])
 except KeyError:
