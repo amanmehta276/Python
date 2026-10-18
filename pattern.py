@@ -3,4 +3,3 @@ def pattern(n):
         print(" " * (n - i) + "*" * (2 * i - 1))
 
 
-pattern(6)
